@@ -10,7 +10,8 @@ Hugging Face Transformers library
 ipywidgets library for the UI
 
 Setup:
-1.Open the Colab Notebook
+
+1.Open the Colab Notebook:
 Open the provided Colab notebook in your Google Colab environment: BART_Summarizer.ipynb
 
 2.Install Required Libraries:
